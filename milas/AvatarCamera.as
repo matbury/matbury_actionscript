@@ -4,25 +4,25 @@
     import flash.display.Sprite;
     import flash.display.StageAlign;
     import flash.display.StageScaleMode;
-	import flash.display.Bitmap;
-	import flash.display.BitmapData;
+    import flash.display.Bitmap;
+    import flash.display.BitmapData;
     import flash.events.*;
-	import flash.filters.DropShadowFilter;
-	import flash.geom.Matrix;
+    import flash.filters.DropShadowFilter;
+    import flash.geom.Matrix;
     import flash.media.Camera;
     import flash.media.Video;
-	import flash.net.*;
-	import flash.text.*;
-	import flash.utils.ByteArray;
-	import com.adobe.images.JPGEncoder;
-	import com.matbury.CMenu;
-	import com.matbury.ResizeBitmap;
-	import com.matbury.UserMessage;
-	import com.matbury.sam.data.Amf;
-	import com.matbury.sam.data.FlashVars;
-	import com.matbury.sam.gui.Btn;
-	import com.matbury.sam.gui.LoadBar;
-	import com.matbury.milas.lang.en.Lang;
+    import flash.net.*;
+    import flash.text.*;
+    import flash.utils.ByteArray;
+    import com.adobe.images.JPGEncoder;
+    import com.matbury.CMenu;
+    import com.matbury.ResizeBitmap;
+    import com.matbury.UserMessage;
+    import com.matbury.sam.data.Amf;
+    import com.matbury.sam.data.FlashVars;
+    import com.matbury.sam.gui.Btn;
+    import com.matbury.sam.gui.LoadBar;
+    import com.matbury.milas.lang.en.Lang;
 
     public class AvatarCamera extends Sprite {
 		
@@ -52,7 +52,8 @@
 			stage.addEventListener(Event.RESIZE, resize);
 			_dsf = new DropShadowFilter(2,45,0,1,2,2);
 			initCMenu();
-			securityCheck();
+			//securityCheck();
+                        initInteraction();
 		}
 		
 		private function resize(event:Event):void {
