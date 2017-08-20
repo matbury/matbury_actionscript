@@ -1,4 +1,6 @@
 ﻿/**
+* IMPORTANT: AmfPHP no longer works with Moodle. Please use FlashVars instead:
+    com.matbury.sam.data.FlashVars
 * class Amf connects learning applications to Moodle DB via lib/amfphp/services
 * Uses AMFPHP 1.9
 *

@@ -2,7 +2,7 @@
 * class FlashVars
 * package com.matbury.sam.data
 * Copyright Matt Bury 2009
-* By Matt Bury - matt@matbury.com - http://matbury.com/
+* By Matt Bury - matbury@gmail.com - https://matbury.com/
 * Version 1.1 13/08/2013
 * Licence - GNU GPL 3.0 http://www.gnu.org/licenses/gpl.html
 * SWF Activity Module variables
