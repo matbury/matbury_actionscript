@@ -1,6 +1,6 @@
 ﻿/*
 	XMLCEFRLCanDos Multimedia Interactive Learning Application (MILA).
-	Copyright © 2012 Matt Bury All rights reserved.
+	Copyright © 2012 Matt Bury
 	http://matbury.com/
 	matt@matbury.com
 	Requires Flash Player 9+
