@@ -1,6 +1,6 @@
 ﻿/*
-    XMLCTest Multimedia Interactive Learning Application (MILA).
-    
+    SMILCTest Multimedia Interactive Learning Application (MILA).
+
     This file is part of the matbury.com Actionscript library
     matbury.com Multimedia Interactive Learning Applications (MILAs) are
     free software: you can redistribute them and/or modify them under 

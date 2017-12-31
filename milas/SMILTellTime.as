@@ -1,5 +1,5 @@
 ﻿/*
-    XMLListenAndRead Multimedia Interactive Learning Application (MILA)
+    SMILTellTime Multimedia Interactive Learning Application (MILA)
 
     This file is part of the matbury.com Actionscript library
     matbury.com Multimedia Interactive Learning Applications (MILAs) are
